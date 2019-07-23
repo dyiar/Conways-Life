@@ -45,6 +45,7 @@ class Board extends React.Component {
       }
 
     }
+  
 
     this.setState({
       squares: newSquares,
